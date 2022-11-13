@@ -1,5 +1,5 @@
 # Road_Line_Detection
-detect lines on road image
+detect lines on road image for self-driving cars
 
 # Liberaries used:
 1. cv2
