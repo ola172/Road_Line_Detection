@@ -8,3 +8,10 @@ detect lines on road image
 4. math
 
 # Project steps:
+1. import liberaries 
+2. load image
+3. preprocessing data ( remove noise from image )
+4. making edge detection with canny
+5. making ROI (region of interset)
+6. making line detection by Hough Transform technique
+7. formulate lines and draw them on original images
